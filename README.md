@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Roth et al., "Stimulus vignetting and orientation selectivity in human visual cortex". eLife, 2018. http://dx.doi.org/10.7554/eLife.37241
+
 # Stimulus vignetting code
 
 The code in this repository contains all the MATLAB software used to analyze the data and generate the figures for the following publication: Roth, ZN, Heeger, DJ, and Merriam, EP (2018). Stimulus vignetting and orientation selectivity in human visual cortex. (DOI: 10.7554/eLife.37241).
